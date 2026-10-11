@@ -3,9 +3,6 @@ __pycache__/
 .vscode/
 .DS_Store
 
-data/*
-!data/.gitkeep
-
 # Environments
 .venv/
 venv/
