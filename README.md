@@ -2,7 +2,7 @@
 ## Contents of the zip:
 
 ```
-ML_Group_XX_notebook/
+ML_Group_11_notebook/
 ├── README.md
 ├── environment.yml
 ├── notebooks/
